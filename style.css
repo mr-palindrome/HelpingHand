@@ -646,6 +646,9 @@ p {
   margin-bottom: -10px; 
 
 }
+.dk-footer a{
+  text-decoration: none;
+}
 .dk-footer .contact-us {
   margin-top: 0;
   margin-bottom: 30px;
